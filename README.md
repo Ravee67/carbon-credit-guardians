@@ -28,6 +28,3 @@ pip install -r requirements.txt
 python main.py
 ```
 
-## 📊 Dataset
-- Place your Kaggle credit card fraud dataset as `creditcard.csv` in the same folder.
-- Dataset link: https://www.kaggle.com/mlg-ulb/creditcardfraud
